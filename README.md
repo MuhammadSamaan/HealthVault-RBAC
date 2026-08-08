@@ -4,32 +4,20 @@
 
 
 ---
+## Working Images
+![Login](https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png)  
 
-## SCREENSHOTS
+![CMO Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/02-cmo-dashboard.png) 
+ 
+![Staff Management](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/03-staff-management.png)
 
-## CMO
-## Login Page
+![Admin Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/04-admin-dashboard.png)
 
-(https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png)  
+![Doctor Dashboard]([screenshots/05-doctor-dashboard.png](https://github.com/MuhammadSamaan/HealthVault-)
 
-## CMO Dashboard
-https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/02-cmo-dashboard.png
-![CMO Dashboard](screenshots/02-cmo-dashboard.png) |
+![Nurse Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/06-nurse-dashboard.png)
 
-## Staff Management 
-https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/03-staff-management.png
-
-## Admin Dashboard 
-https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/04-admin-dashboard.png
-
-## Doctor Dashboard  
-https://github.com/MuhammadSamaan/HealthVault-
-
-## Nurse Dashboard 
-https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/06-nurse-dashboard.png
-
-## Reception Dashboard 
-https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/07-reception-dashboard.png
+![Reception Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/07-reception dashboard.png)
 
 ---
 
