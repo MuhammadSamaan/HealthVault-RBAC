@@ -10,9 +10,7 @@
 ## CMO
 ## Login Page
 
-![Login](https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png)  
-![CMO Dashboard](screenshots/02-cmo-dashboard.png)
-
+(https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png)  
 
 ## CMO Dashboard
 https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/02-cmo-dashboard.png
