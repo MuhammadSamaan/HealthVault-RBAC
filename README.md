@@ -1,4 +1,4 @@
-# HealthVault — RBAC Portal
+# HealthVault | RBAC Portal
 ### Secure Role-Based Access Control System
 ### Made by Muhammad Samaan
 
@@ -9,7 +9,10 @@
 
 ## CMO
 ## Login Page
-https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png
+
+![Login](https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png)  
+![CMO Dashboard](screenshots/02-cmo-dashboard.png)
+
 
 ## CMO Dashboard
 https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/02-cmo-dashboard.png
