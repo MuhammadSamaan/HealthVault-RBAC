@@ -7,22 +7,28 @@
 
 ## SCREENSHOTS
 
-| Login | CMO Dashboard |
-|---|---|
-| ![Login](https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png) 
+## CMO
+## Login Page
+https://raw.githubusercontent.com/MuhammadSamaan/HealthVault-RBAC/refs/heads/main/Output%20Images/01-login.png
+
+## CMO Dashboard
+https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/02-cmo-dashboard.png
 ![CMO Dashboard](screenshots/02-cmo-dashboard.png) |
 
-| Staff Management | Admin Dashboard |
-|---|---|
-| ![Staff Management](screenshots/03-staff-management.png) | ![Admin Dashboard](screenshots/04-admin-dashboard.png) |
+## Staff Management 
+https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/03-staff-management.png
 
-| Doctor Dashboard | Nurse Dashboard |
-|---|---|
-| ![Doctor Dashboard](screenshots/05-doctor-dashboard.png) | ![Nurse Dashboard](screenshots/06-nurse-dashboard.png) |
+## Admin Dashboard 
+https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/04-admin-dashboard.png
 
-| Reception Dashboard |
-|---|
-| ![Reception Dashboard](screenshots/07-reception-dashboard.png) |
+## Doctor Dashboard  
+https://github.com/MuhammadSamaan/HealthVault-
+
+## Nurse Dashboard 
+https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/06-nurse-dashboard.png
+
+## Reception Dashboard 
+https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/07-reception-dashboard.png
 
 ---
 
@@ -86,11 +92,6 @@ This project is deployment-ready for free hosting:
 | Backend  | Render (free tier)| Auto-configured via `render.yaml`         |
 | Frontend | Vercel (free tier)| Auto-detects React, zero config needed    |
 
-**Steps:**
-1. Push this repo to GitHub.
-2. On Render: New → Web Service → import this repo → it reads `render.yaml` automatically → add `JWT_SECRET` in the Environment tab.
-3. On Vercel: New Project → import this repo → set root directory to `frontend` → add `REACT_APP_API_URL` set to your Render backend URL + `/api`.
-4. Redeploy frontend once backend URL is known.
 
 ---
 
