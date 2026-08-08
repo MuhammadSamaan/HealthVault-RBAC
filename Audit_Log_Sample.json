@@ -1,0 +1,252 @@
+[
+  {
+    "id": "log_1749823200000_ab3k2",
+    "timestamp": "2026-06-13T14:00:00.000Z",
+    "event": "ACCESS_DENIED",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Role \"receptionist\" attempted \"roles:assign\"",
+    "outcome": "DENIED"
+  },
+  {
+    "id": "log_1749823140000_cd8m1",
+    "timestamp": "2026-06-13T13:59:00.000Z",
+    "event": "ACCESS_DENIED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Role \"nurse\" attempted \"audit:read\"",
+    "outcome": "DENIED"
+  },
+  {
+    "id": "log_1749823080000_ef4n9",
+    "timestamp": "2026-06-13T13:58:00.000Z",
+    "event": "LOGOUT",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749823020000_gh7p3",
+    "timestamp": "2026-06-13T13:57:00.000Z",
+    "event": "APPOINTMENT_CREATED",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Booked for \"Omar Farooq\" with Dr. Zainab Raza on 2026-06-15 at 10:00",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822960000_ij2q7",
+    "timestamp": "2026-06-13T13:56:00.000Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Logged in as doctor — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822900000_kl5r1",
+    "timestamp": "2026-06-13T13:55:00.000Z",
+    "event": "ACCOUNT_UNLOCKED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Unlocked \"fatima.noor\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822840000_mn8s4",
+    "timestamp": "2026-06-13T13:54:00.000Z",
+    "event": "ACCOUNT_LOCKED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Locked after 5 failed attempts",
+    "outcome": "BLOCKED"
+  },
+  {
+    "id": "log_1749822780000_op1t6",
+    "timestamp": "2026-06-13T13:53:00.000Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Wrong password attempt 4/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1749822720000_qr6u2",
+    "timestamp": "2026-06-13T13:52:00.000Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Wrong password attempt 3/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1749822660000_st9v5",
+    "timestamp": "2026-06-13T13:51:00.000Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Wrong password attempt 2/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1749822600000_uv3w8",
+    "timestamp": "2026-06-13T13:50:00.000Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Wrong password attempt 1/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1749822540000_wx0x1",
+    "timestamp": "2026-06-13T13:49:00.000Z",
+    "event": "ANNOUNCEMENT_CREATED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Posted: \"Emergency Drill — June 20, 2026\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822480000_yz4y3",
+    "timestamp": "2026-06-13T13:48:00.000Z",
+    "event": "ROLE_CHANGED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "usman.malik: receptionist → receptionist",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822420000_za7z6",
+    "timestamp": "2026-06-13T13:47:00.000Z",
+    "event": "USER_REGISTERED",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Registered \"sara.khan\" as nurse",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822360000_bc1a9",
+    "timestamp": "2026-06-13T13:46:00.000Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "notarealuser",
+    "ip": "::ffff:203.0.113.42",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1749822300000_de5b2",
+    "timestamp": "2026-06-13T13:45:00.000Z",
+    "event": "ACCESS_DENIED",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Role \"receptionist\" attempted \"users:read\"",
+    "outcome": "DENIED"
+  },
+  {
+    "id": "log_1749822240000_fg8c5",
+    "timestamp": "2026-06-13T13:44:00.000Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822180000_hi2d8",
+    "timestamp": "2026-06-13T13:43:00.000Z",
+    "event": "APPOINTMENT_CANCELLED",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Cancelled for \"Tariq Mehmood\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822120000_jk9e1",
+    "timestamp": "2026-06-13T13:42:00.000Z",
+    "event": "APPOINTMENT_UPDATED",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "\"Ibrahim Hassan\" → Completed",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822060000_lm4f4",
+    "timestamp": "2026-06-13T13:41:00.000Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749822000000_no7g7",
+    "timestamp": "2026-06-13T13:40:00.000Z",
+    "event": "LOGIN_BLOCKED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::ffff:192.168.1.12",
+    "details": "Account locked",
+    "outcome": "BLOCKED"
+  },
+  {
+    "id": "log_1749821940000_pq0h0",
+    "timestamp": "2026-06-13T13:39:00.000Z",
+    "event": "USER_DELETED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Deleted \"test.account\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749821880000_rs3i3",
+    "timestamp": "2026-06-13T13:38:00.000Z",
+    "event": "ANNOUNCEMENT_DELETED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Deleted: \"Old Protocol Notice\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749821820000_tu6j6",
+    "timestamp": "2026-06-13T13:37:00.000Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Logged in as receptionist — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1749821760000_vw9k9",
+    "timestamp": "2026-06-13T13:36:00.000Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  }
+]

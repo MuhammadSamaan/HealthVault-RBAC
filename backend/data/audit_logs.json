@@ -1,0 +1,632 @@
+[
+  {
+    "id": "log_1786136093038_73enj",
+    "timestamp": "2026-08-07T20:54:53.038Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Logged in as receptionist — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786136078284_1djyc",
+    "timestamp": "2026-08-07T20:54:38.284Z",
+    "event": "LOGOUT",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786136048625_7oide",
+    "timestamp": "2026-08-07T20:54:08.625Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Logged in as nurse — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786136034149_oojsy",
+    "timestamp": "2026-08-07T20:53:54.149Z",
+    "event": "LOGOUT",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786135989494_jny5j",
+    "timestamp": "2026-08-07T20:53:09.494Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Logged in as doctor — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786135959804_id5kt",
+    "timestamp": "2026-08-07T20:52:39.804Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786135933264_jqqii",
+    "timestamp": "2026-08-07T20:52:13.264Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786135915189_vrg7v",
+    "timestamp": "2026-08-07T20:51:55.189Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786135838554_fxak8",
+    "timestamp": "2026-08-07T20:50:38.554Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786133864936_rg9n6",
+    "timestamp": "2026-08-07T20:17:44.936Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786133851866_jkg9d",
+    "timestamp": "2026-08-07T20:17:31.866Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786050399113_3jnhi",
+    "timestamp": "2026-08-06T21:06:39.113Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786050379515_yy91m",
+    "timestamp": "2026-08-06T21:06:19.515Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786050321339_9lnks",
+    "timestamp": "2026-08-06T21:05:21.339Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1786050259330_q7dk7",
+    "timestamp": "2026-08-06T21:04:19.330Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781515184724_lldez",
+    "timestamp": "2026-06-15T09:19:44.724Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Logged in as doctor — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781515164384_splc4",
+    "timestamp": "2026-06-15T09:19:24.384Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781515134986_1cuf3",
+    "timestamp": "2026-06-15T09:18:54.986Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781515102633_pwrv5",
+    "timestamp": "2026-06-15T09:18:22.633Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781514963715_6u2js",
+    "timestamp": "2026-06-15T09:16:03.715Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781513099105_xdv2r",
+    "timestamp": "2026-06-15T08:44:59.105Z",
+    "event": "LOGOUT",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781513096744_bj49c",
+    "timestamp": "2026-06-15T08:44:56.744Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Logged in as receptionist — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781513078457_ghm36",
+    "timestamp": "2026-06-15T08:44:38.457Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513077960_m6s77",
+    "timestamp": "2026-06-15T08:44:37.960Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513077520_jbnz4",
+    "timestamp": "2026-06-15T08:44:37.520Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513077360_xkfok",
+    "timestamp": "2026-06-15T08:44:37.360Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513077153_5hhr4",
+    "timestamp": "2026-06-15T08:44:37.153Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513076657_3bckq",
+    "timestamp": "2026-06-15T08:44:36.657Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513075073_glwiq",
+    "timestamp": "2026-06-15T08:44:35.073Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hwjd",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513071086_195zq",
+    "timestamp": "2026-06-15T08:44:31.086Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hjavdh",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513069232_neypu",
+    "timestamp": "2026-06-15T08:44:29.232Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "hjavdh",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513063678_8rrie",
+    "timestamp": "2026-06-15T08:44:23.678Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "huhvsdv",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513059878_r5wh6",
+    "timestamp": "2026-06-15T08:44:19.878Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "huhvsdv",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513051586_r9kx2",
+    "timestamp": "2026-06-15T08:44:11.586Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "chvjdjds",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513046065_tstxw",
+    "timestamp": "2026-06-15T08:44:06.065Z",
+    "event": "LOGIN_FAILED",
+    "userId": "unknown",
+    "username": "huou",
+    "ip": "::1",
+    "details": "Unknown username",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781513033590_cx89e",
+    "timestamp": "2026-06-15T08:43:53.590Z",
+    "event": "LOGOUT",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781513000779_5n0a8",
+    "timestamp": "2026-06-15T08:43:20.779Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Logged in as receptionist — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512946412_odrqr",
+    "timestamp": "2026-06-15T08:42:26.412Z",
+    "event": "LOGOUT",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512926115_y8v6x",
+    "timestamp": "2026-06-15T08:42:06.115Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Logged in as nurse — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512900919_5bnao",
+    "timestamp": "2026-06-15T08:41:40.919Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Wrong password attempt 2/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781512886891_uz0an",
+    "timestamp": "2026-06-15T08:41:26.891Z",
+    "event": "LOGIN_FAILED",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Wrong password attempt 1/5",
+    "outcome": "FAILED"
+  },
+  {
+    "id": "log_1781512858442_bjigs",
+    "timestamp": "2026-06-15T08:40:58.442Z",
+    "event": "LOGOUT",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512808023_m0stc",
+    "timestamp": "2026-06-15T08:40:08.023Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Logged in as doctor — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512770191_r1dj4",
+    "timestamp": "2026-06-15T08:39:30.191Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512663745_52n9a",
+    "timestamp": "2026-06-15T08:37:43.745Z",
+    "event": "APPOINTMENT_CREATED",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Booked for \"Muhammad Samaan\" with Dr. Maryam Sheikh on 2026-06-16 at 16:30",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512550537_ehwq0",
+    "timestamp": "2026-06-15T08:35:50.537Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512508074_rc1ir",
+    "timestamp": "2026-06-15T08:35:08.074Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512461120_7b8e9",
+    "timestamp": "2026-06-15T08:34:21.120Z",
+    "event": "ROLE_CHANGED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "usman.malik: admin → receptionist",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512458180_7da99",
+    "timestamp": "2026-06-15T08:34:18.180Z",
+    "event": "ROLE_CHANGED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "usman.malik: receptionist → admin",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512411207_fgcuv",
+    "timestamp": "2026-06-15T08:33:31.207Z",
+    "event": "ANNOUNCEMENT_CREATED",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Posted: \"Testing\"",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781512291094_75apu",
+    "timestamp": "2026-06-15T08:31:31.094Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392439465_s2c79",
+    "timestamp": "2026-06-13T23:13:59.465Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392432431_pa6xx",
+    "timestamp": "2026-06-13T23:13:52.431Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392172985_bwvpi",
+    "timestamp": "2026-06-13T23:09:32.985Z",
+    "event": "LOGOUT",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392161568_ivkvf",
+    "timestamp": "2026-06-13T23:09:21.568Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "5",
+    "username": "usman.malik",
+    "ip": "::1",
+    "details": "Logged in as receptionist — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392138423_5u6a2",
+    "timestamp": "2026-06-13T23:08:58.423Z",
+    "event": "LOGOUT",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392131738_wggc3",
+    "timestamp": "2026-06-13T23:08:51.738Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "4",
+    "username": "fatima.noor",
+    "ip": "::1",
+    "details": "Logged in as nurse — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392117912_zkch2",
+    "timestamp": "2026-06-13T23:08:37.912Z",
+    "event": "LOGOUT",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392097954_neog8",
+    "timestamp": "2026-06-13T23:08:17.954Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "3",
+    "username": "zainab.raza",
+    "ip": "::1",
+    "details": "Logged in as doctor — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392074786_wsl92",
+    "timestamp": "2026-06-13T23:07:54.786Z",
+    "event": "LOGOUT",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392056541_30jr3",
+    "timestamp": "2026-06-13T23:07:36.541Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "2",
+    "username": "ahmed.karimi",
+    "ip": "::1",
+    "details": "Logged in as admin — JWT issued",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781392012939_5mrw2",
+    "timestamp": "2026-06-13T23:06:52.939Z",
+    "event": "LOGOUT",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Signed out — token revoked",
+    "outcome": "SUCCESS"
+  },
+  {
+    "id": "log_1781391991810_2a5l0",
+    "timestamp": "2026-06-13T23:06:31.810Z",
+    "event": "LOGIN_SUCCESS",
+    "userId": "1",
+    "username": "maryam.sheikh",
+    "ip": "::1",
+    "details": "Logged in as cmo — JWT issued",
+    "outcome": "SUCCESS"
+  }
+]
