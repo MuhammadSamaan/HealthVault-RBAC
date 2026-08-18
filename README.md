@@ -13,11 +13,11 @@
 
 ![Admin Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/04-admin-dashboard.png)
 
-![Doctor Dashboard]([screenshots/05-doctor-dashboard.png](https://github.com/MuhammadSamaan/HealthVault-)
+![Doctor Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/05-doctor-dashboard.png)
 
 ![Nurse Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/06-nurse-dashboard.png)
 
-![Reception Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/07-reception dashboard.png)
+![Reception Dashboard](https://github.com/MuhammadSamaan/HealthVault-RBAC/blob/main/Output%20Images/07-reception-dashboard.png)
 
 ---
 
